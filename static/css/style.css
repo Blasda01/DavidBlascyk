@@ -95,7 +95,18 @@ body {
    height: auto;
 }
 
+.panel-body {
+  margin-left: 15px;
+  text-align: left;
+  padding-left: 1px;
+  position: relative;
+  font-weight: 350;
+  color: rgb(138, 145, 145);
+ }
 
+#panel-link {
+  color:  rgb(198, 231, 231);
+}
 /* input placeholder color changes */
 .form-control::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
